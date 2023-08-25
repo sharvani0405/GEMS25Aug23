@@ -1,3 +1,7 @@
 Welcome to git!!!
 This session is for GEMS
 hello
+
+function bug123() {
+//do something 
+}

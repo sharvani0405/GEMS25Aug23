@@ -5,4 +5,5 @@ hello and today is Friday.....
 function bug123() {
 //do something
 //do this to fix bug456 
+//do something here
 }

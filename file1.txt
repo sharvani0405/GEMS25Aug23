@@ -1,9 +1,9 @@
 Welcome to git!!!
 This session is for GEMS
-hello and today is Friday.....
+hello and today is friday
 
 function bug123() {
 //do something
 //do this to fix bug456 
-//do something here
+//do something here to fix CR2
 }

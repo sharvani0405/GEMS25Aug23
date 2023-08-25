@@ -1,1 +1,2 @@
 Welcome to git!!!
+This session is for GEMS
